@@ -1,6 +1,6 @@
 # watch-scope
 ## Pay attention:
-* this platforms are watching:
+* these platforms are watching:
   * Yeswehack
   * Hackerone
   * Intigriti
